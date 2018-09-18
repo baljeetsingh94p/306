@@ -1,4 +1,3 @@
-harry
 A
 F
 C
